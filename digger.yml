@@ -1,3 +1,5 @@
+disable_digger_apply_comment: true
+
 projects:
   - name: dev
     dir: .
