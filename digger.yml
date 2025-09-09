@@ -1,6 +1,7 @@
 projects:
   - name: dev
     dir: .
+    branch: mytarget2
     workflow: aom
    
 workflows:
